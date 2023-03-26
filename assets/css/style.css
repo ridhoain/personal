@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #fff;
+  color: #19191c;
   position: relative;
   background: transparent;
 }
@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #010e1b;
+  background: #FFFFFF;
   background-size: cover;
   left: 0;
   right: 0;
@@ -33,11 +33,11 @@ body::before {
 }
 
 a {
-  color: #12d640;
+  color: #011506;
 }
 
 a:hover {
-  color: #35e888;
+  color: #1c31a6;
   text-decoration: none;
 }
 
@@ -99,7 +99,7 @@ svg {
 }
 
 #header h1 a, #header h1 a:hover {
-  color: #dee2e6;
+  color: #1c31a6;
   line-height: 1;
   display: inline-block;
 }
@@ -107,11 +107,11 @@ svg {
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: #12d640;
+  color: #19191c;
 }
 
 #header h2 span {
-  color: #ffc107;
+  color: #19191c;
   border-bottom: 2px solid #1c7d32;
   padding-bottom: 6px;
 }
@@ -141,7 +141,7 @@ svg {
 }
 
 #header .social-links a:hover {
-  background: #12d640;
+  background: #c3c3c7;
 }
 
 @media (max-width: 992px) {
@@ -184,7 +184,7 @@ svg {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #fff;
+  color: #26262b;
   font-size: 19px;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -197,7 +197,7 @@ svg {
   height: 2px;
   bottom: -4px;
   left: 0;
-  background-color: #9e7f25;
+  background-color: #9999bf;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -209,7 +209,7 @@ svg {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #12d640;
+  color:  #1c31a6;
   text-decoration: none;
 }
 
