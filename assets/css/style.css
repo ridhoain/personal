@@ -111,7 +111,7 @@ svg {
 }
 
 #header h2 span {
-  color: #19191c;
+  color: #000000;
   border-bottom: 2px solid #1c7d32;
   padding-bottom: 6px;
 }
@@ -184,7 +184,7 @@ svg {
 .nav-menu a {
   display: block;
   position: relative;
-  color: ##FFFFFF;
+  color: #00000;
   font-size: 19px;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -197,7 +197,7 @@ svg {
   height: 2px;
   bottom: -4px;
   left: 0;
-  background-color: #FFFFFF;
+  background-color: #0000;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -449,7 +449,7 @@ section .container {
   font-size: 24px;
   background: rgba(255, 255, 255, 0.1);
   padding: 12px;
-  color: #1c7d32;
+  color: #FFFFF;
   border-radius: 50px;
 }
 
