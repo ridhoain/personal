@@ -412,7 +412,7 @@ section .container {
 .about-me .content ul {
   list-style: none;
   text-align: justify; 
-  padding: 0;
+  padding: 50;
 }
 
 .about-me .content ul li {
@@ -422,7 +422,7 @@ section .container {
 
 .about-me .content ul i {
   font-size: 20px;
-  padding-right: 2px;
+  padding-right: 20px;
   text-align: justify; 
   color: #000000;
 }
@@ -435,7 +435,7 @@ section .container {
 .about-me .content p {
   width: 100%; /* Ensures the paragraph takes the full width of its parent container */
   margin: 0; /* Removes any default margin */
-  padding: 0; /* Removes any default padding */
+  padding: 30; /* Removes any default padding */
   text-align: justify; /* Optional: Justifies the text to ensure both edges are aligned */
 }
 
