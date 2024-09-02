@@ -210,7 +210,7 @@ svg {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color:  #b7bee8;
+  color:  #4863fd;
   text-decoration: none;
 }
 
@@ -423,16 +423,15 @@ section .container {
   color: #000000;
 }
 
+.about-me .content p:last-child {
+  margin-bottom: 0;
+}
+
 .about-me .content p {
   width: 100%; /* Ensures the paragraph takes the full width of its parent container */
   margin: 0; /* Removes any default margin */
   padding: 0; /* Removes any default padding */
   text-align: justify; /* Optional: Justifies the text to ensure both edges are aligned */
-  color: #000000;
-}
-
-.about-me .content p:last-child {
-  margin-bottom: 0;
 }
 
 /*--------------------------------------------------------------
