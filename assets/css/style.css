@@ -142,7 +142,7 @@ svg {
 }
 
 #header .social-links a:hover {
-  background: #b7bee8;
+  background: #4761f7;
 }
 
 @media (max-width: 992px) {
@@ -304,7 +304,7 @@ svg {
   left: 0;
   top: 0;
   right: 0;
-  background: #b9c2cc;
+  background: #9fa1a9;
 }
 
 #header.header-top .social-links, #header.header-top h2 {
@@ -314,6 +314,7 @@ svg {
 #header.header-top h1 {
   margin-right: auto;
   font-size: 36px;
+  color: #000000;
 }
 
 #header.header-top .container {
@@ -410,21 +411,25 @@ section .container {
 
 .about-me .content ul {
   list-style: none;
+  text-align: justify; 
   padding: 0;
 }
 
 .about-me .content ul li {
   padding-bottom: 10px;
+  text-align: justify; 
 }
 
 .about-me .content ul i {
   font-size: 20px;
   padding-right: 2px;
+  text-align: justify; 
   color: #000000;
 }
 
 .about-me .content p:last-child {
   margin-bottom: 0;
+  text-align: justify; 
 }
 
 .about-me .content p {
