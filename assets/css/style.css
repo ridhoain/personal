@@ -93,6 +93,7 @@ svg {
   font-size: 48px;
   margin-top: 0px;
   padding: 0;
+  color: #ffffff;
   line-height: 1;
   font-weight: 700;
   font-family: "Poppins", sans-serif;
@@ -184,7 +185,7 @@ svg {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #ffffff;
+  color: #000000;
   font-size: 19px;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -303,7 +304,7 @@ svg {
   left: 0;
   top: 0;
   right: 0;
-  background: #09203a;
+  background: #b9c2cc;
 }
 
 #header.header-top .social-links, #header.header-top h2 {
